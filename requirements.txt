@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+prophet
+statsmodels
+xgboost
+lightgbm
+shap
+matplotlib
+seaborn
+apache-airflow==2.7.2
+tableauhyperapi
+pyyaml
+joblib
+python-dotenv
+ipykernel
+notebook
