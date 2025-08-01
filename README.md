@@ -8,4 +8,13 @@ The goal is to assist supply chain planners and category managers in making info
 # Dataset Description
 The dataset is based on the [Favorita Grocery Sales Forecasting](https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/data) Kaggle competition and includes:
 
+- Historical daily sales per store_nbr, item_family, and date
+- Store metadata: city, state, cluster, and store type
+- Event calendar: holidays (local, regional, national), transferred holidays
+- Oil price index as a proxy for economic activity
+- Promotional flags
+- Transactions (partial availability)
+
+
+
 
