@@ -15,6 +15,31 @@ The dataset is based on the [Favorita Grocery Sales Forecasting](https://www.kag
 - Promotional flags
 - Transactions (partial availability)
 
+## Project Structure 
+```plaintext
+ProductDemandForecasting/
+├── data/
+│ └── data.zip
+├── notebooks/
+│ ├── agg_date.csv
+│ ├── agg_per_store_family.csv
+│ ├── agg_per_store.csv
+│ ├── Aggregate Workbooks.twb
+│ ├── daily_forecast_by_family.csv
+│ ├── eda.ipynb
+│ ├── final_input.csv
+│ ├── Forecasted Sales for each day from 16th of August 2017.png
+│ ├── Forecasted Sales per Category.png
+│ ├── Forecasted Sales per Store.png
+│ ├── submission.csv
+│ ├── Total Forecasted Sales for 16th Aug to 31st Aug.png
+│ └── train_model.ipynb
+├── reports/
+├── src/
+├── README.md
+└── requirements.txt
+```
+
 ## Workflow 
 
 Data Preprocessing
