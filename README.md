@@ -46,6 +46,14 @@ Forecast Inference
 - Store-Level Demand Comparison
 - Product Category Demand Patterns
 
+Files used for this : 
+- daily_forecast_by_store_family.csv : Daily breakdown of store sales per category
+- agg_date.csv: Date-wise aggregate for time series trend
+- agg_per_store.csv: Store-level forecasts
+- agg_per_store_family.csv: Store & category granularity
+
+
+
 
 
 
