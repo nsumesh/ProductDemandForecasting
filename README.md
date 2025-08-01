@@ -41,7 +41,12 @@ Forecast Inference
   - Aggregates per family
   - Aggregates per day
 
-  
+## Tableau Visualizations
+- Daily Forecast Line Chart (Aug 16–31)
+- Store-Level Demand Comparison
+- Product Category Demand Patterns
+
+
 
 
 
